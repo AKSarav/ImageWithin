@@ -1,4 +1,4 @@
-# Image Within - Find Images Within Another Image :sparkles:
+# Image Within - Search for an Image in another Image :sparkles:
 
 An Experiment Project with API and Web Interface created to Find Images Within Another Image
 
