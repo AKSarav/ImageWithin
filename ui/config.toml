@@ -1,0 +1,4 @@
+[server]
+enableCORS = true
+# maxUploadSize in MB
+maxUploadSize = 5 
